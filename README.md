@@ -1,20 +1,23 @@
 _your zenodo badge here_
 
-# lastname-etal_year_journal
+# graham-etal_2021_erl
 
-**A long-term global energy-economic model of carbon dioxide release from fossil fuel use**
+**Future evolution of virtual water trading in the United States electricity sector**
 
-Jae Edmonds<sup>1\*</sup> and John Reilly<sup>1</sup>
+Neal Graham<sup>1\*</sup>, Gokul Iyer<sup>1</sup>, Marshall Wise<sup>1</sup>, Mohamad Hejazi<sup>2</sup>, Thomas B. Wild<sup>1,3,4</sup>
 
-<sup>1 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, 1346 Connecticut Avenue, NW, Washington, DC 20036, USA
+<sup>1 </sup> Joint Global Change Research Institute, College Park, MD, USA
+<sup>2 </sup> King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia
+<sup>3 </sup> Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, MD 20740, USA
+<sup>4 </sup> Department of Civil and Environmental Engineering, University of Maryland, College Park, MD 20740, USA
 
-\* corresponding author:  email@myorg.gov
+\* corresponding author:  neal.graham@pnnl.gov
 
 ## Abstract
-In this paper the authors develop a long-term global energy-economic model which is capable of assessing alternative energy evolutions over periods of up to 100 years. The authors have sought to construct the model so that it can perform its assigned task with as simple a modelling system as possible. The model structure is fully documented and a brief summary of results is given.
+Future transformations in the electricity sector could entail major shifts in power sector technology mixes and electricity trade, with consequences for the trading of virtual water. Previous virtual water trade studies largely focus on historical timeframes. We explore, for the first time, future – through 2050 – virtual water trade driven by electricity trade under a range of future electricity sector transformation scenarios using the United States as an example. Under a business-as-usual scenario, virtual water trading in 2050 decreases by 3% relative to 2015 levels. By contrast, virtual water trading increases respectively by 3%, 26%, and 32%, in scenarios characterized by higher socioeconomic growth, higher potential for transmission expansion, and low-carbon transitions. These increases are driven by electricity generation expansion in the western U.S., resulting in higher virtual water trade to the east. In addition, we find that as electricity generation shifts west, an increased amount of nonrenewable groundwater will be consumed to generate electricity that is supplied to the east. Independent of scenario, the US electricity grid largely relies on virtual water exports from only a few states. Our study highlights the need for integrated and national strategies to manage the water and electric systems.
 
 ## Journal reference
-Edmonds, J., & Reilly, J. (1983). A long-term global energy-economic model of carbon dioxide release from fossil fuel use. Energy Economics, 5(2), 74-88. DOI: https://doi.org/10.1016/0140-9883(83)90014-2
+TBD
 
 ## Code reference
 References for each minted software release for all code involved.  
